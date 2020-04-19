@@ -2,7 +2,7 @@ package algorithmsproject;
 
 /**
  *
- * @author Bilal
+ * @author Bilal & Amro
  */
 import java.util.Random;
 
@@ -13,24 +13,34 @@ public class AlgorithmsProject {
 
         System.out.println("for array of size 10k:");
         pass(10000);
+         System.out.println("*****************************");
         System.out.println("for array of size 20k:");
         pass(20000);
+          System.out.println("*****************************");
         System.out.println("for array of size 30k:");
         pass(30000);
+           System.out.println("*****************************");
         System.out.println("for array of size 40k:");
         pass(40000);
+           System.out.println("*****************************");
         System.out.println("for array of size 50k:");
         pass(50000);
+           System.out.println("*****************************");
         System.out.println("for array of size 60k:");
         pass(60000);
+           System.out.println("*****************************");
         System.out.println("for array of size 70k:");
         pass(70000);
+           System.out.println("*****************************");
         System.out.println("for array of size 80k:");
         pass(80000);
+           System.out.println("*****************************");
         System.out.println("for array of size 90k:");
         pass(90000);
+           System.out.println("*****************************");
         System.out.println("for array of size 100k:");
         pass(100000);
+           System.out.println("*****************************");
 
         //   printArray(arr);        
     }

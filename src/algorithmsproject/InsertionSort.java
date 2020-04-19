@@ -3,7 +3,7 @@ package algorithmsproject;
 
 /**
  *
- * @author Bilal
+ * @author Bilal & Amro
  */
 public class InsertionSort {
     

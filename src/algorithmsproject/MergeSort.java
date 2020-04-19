@@ -3,7 +3,7 @@ package algorithmsproject;
 
 /**
  *
- * @author Bilal
+ * @author Bilal & Amro
  */
 public class MergeSort {
     void merge(int arr[], int l, int m, int r) 
